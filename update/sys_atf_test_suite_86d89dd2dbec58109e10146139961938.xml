@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter table="sys_atf_test">descriptionLIKEglide-newyork-06-26-2019__patch4-hotfix1-12-16-2019^sys_scope=c188898cdba810109e101461399619fa^EQ<item endquery="false" field="description" goto="false" newquery="false" operator="LIKE" or="false" value="glide-newyork-06-26-2019__patch4-hotfix1-12-16-2019"/>
+            <item display_table="sys_scope" display_value="Regress ATF Tests" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="c188898cdba810109e101461399619fa"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </input_filter>
+        <name>Regress - New York patch4-hotfix1-12-16-2019</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-05 09:56:03</sys_created_on>
+        <sys_id>86d89dd2dbec58109e10146139961938</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Regress - New York patch4-hotfix1-12-16-2019</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_test_suite_86d89dd2dbec58109e10146139961938</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-05 10:24:10</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>

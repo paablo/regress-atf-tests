@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Order item and confirm that ordering is successful</description>
+        <display_name>Order Catalog Item</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Automatically generated using Regress</notes>
+        <order>5</order>
+        <snapshot display_value="4949a111c5a89579e3894752c1250d89">54205e18db2090109e101461399619fa</snapshot>
+        <step_config display_value="Order Catalog Item">c930b4b2c310320076173b0ac3d3aeec</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:42:43</sys_created_on>
+        <sys_id>29ae0e94db2090109e10146139961909</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Order Catalog Item</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_29ae0e94db2090109e10146139961909</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 09:05:31</sys_updated_on>
+        <table/>
+        <test display_value="Catalogue Item E2E using ServiceCatalogueForm17">989e0694db2090109e1014613996197a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=29ae0e94db2090109e10146139961909"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>29ae0e94db2090109e10146139961909</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:42:43</sys_created_on>
+        <sys_id>e5ae0e94db2090109e1014613996190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:42:43</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="">17513cb2c310320076173b0ac3d3ae64</variable>
+    </sys_variable_value>
+</record_update>

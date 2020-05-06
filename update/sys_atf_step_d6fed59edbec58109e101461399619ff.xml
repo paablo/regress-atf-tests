@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the values on the form as follows:
+Description = Automatically generated Test using Regress ATF Recorder.
+glide-newyork-06-26-2019__patch4-hotfix1-12-16-2019</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>The fields populated by the user during recording.</notes>
+        <order>15</order>
+        <snapshot/>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-05 10:22:17</sys_created_on>
+        <sys_id>d6fed59edbec58109e101461399619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_d6fed59edbec58109e101461399619ff</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-05 10:22:17</sys_updated_on>
+        <table>sys_atf_test</table>
+        <test display_value="Regress Test - Paul Morris - 2020-05-05 18:17:42">0fed919adbec58109e1014613996197f</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=d6fed59edbec58109e101461399619ff"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d6fed59edbec58109e101461399619ff</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-05 10:22:17</sys_created_on>
+        <sys_id>1efe199edbec58109e10146139961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-05 10:22:17</sys_updated_on>
+        <value>description=Automatically generated Test using Regress ATF Recorder.
+glide-newyork-06-26-2019__patch4-hotfix1-12-16-2019
+</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d6fed59edbec58109e101461399619ff</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-05 10:22:17</sys_created_on>
+        <sys_id>5afe199edbec58109e10146139961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-05 10:22:17</sys_updated_on>
+        <value>sys_atf_test</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+</record_update>

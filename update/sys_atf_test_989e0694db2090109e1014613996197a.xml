@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Automatically generated Test using Regress ATF Recorder.&#13;
+glide-newyork-06-26-2019__patch4-hotfix1-12-16-2019&#13;
+</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Catalogue Item E2E using ServiceCatalogueForm17</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:42:23</sys_created_on>
+        <sys_id>989e0694db2090109e1014613996197a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Catalogue Item E2E using ServiceCatalogueForm17</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_test_989e0694db2090109e1014613996197a</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-05 09:57:27</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=989e0694db2090109e1014613996197a"/>
+</record_update>

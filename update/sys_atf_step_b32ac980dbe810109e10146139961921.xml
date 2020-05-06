@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Click the component: 'Button &lt;button&gt;: OK'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"acb464a8c20826c5f4fdc18cc711512e":"{\"area\":\"Regress - ATF Recorder - Action Required\",\"sn_atf_mugshot_short_description\":\"Button &lt;button&gt;: OK\",\"inner_text\":\"OK\",\"sn_atf_mugshot_long_description\":\"Button &lt;button&gt; [ok_button]: OK in page area Regress - ATF Recorder - Action Required\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"OK\",\"index\":1,\"type\":\"button\",\"get_value_result\":\"OK\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;button&gt;\",\"sn_atf_mugshot_value\":\"OK\",\"tag\":\"button\",\"isDisabled\":false,\"id\":\"ok_button\",\"hash\":\"acb464a8c20826c5f4fdc18cc711512e\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>6</order>
+        <snapshot/>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:05:20</sys_created_on>
+        <sys_id>b32ac980dbe810109e10146139961921</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_b32ac980dbe810109e10146139961921</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:38:33</sys_updated_on>
+        <table/>
+        <test display_value="New Record">4e594d8cdba810109e10146139961995</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b32ac980dbe810109e10146139961921"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b32ac980dbe810109e10146139961921</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:05:20</sys_created_on>
+        <sys_id>3a3a8980dbe810109e10146139961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:05:20</sys_updated_on>
+        <value>acb464a8c20826c5f4fdc18cc711512e</value>
+        <variable display_value="">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>

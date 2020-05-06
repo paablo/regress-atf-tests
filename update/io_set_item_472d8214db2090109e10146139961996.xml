@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Regress Test Catalogue Item">dbec8ad0db2090109e1014613996199b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:36:17</sys_created_on>
+        <sys_id>472d8214db2090109e10146139961996</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Regress Item Recorder.Regress Test Catalogue Item</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>io_set_item_472d8214db2090109e10146139961996</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:36:17</sys_updated_on>
+        <variable_set display_value="Regress Item Recorder">6df85e0ddb7f00109e101461399619f6</variable_set>
+    </io_set_item>
+</record_update>

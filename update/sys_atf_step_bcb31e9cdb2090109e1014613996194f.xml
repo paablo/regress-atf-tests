@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validate there is at least one record in 'sys_atf_step' matching query:
+Input variables is not empty
+and Input variables is not empty
+and Step config = Open an Existing Record</description>
+        <display_name>Record Query</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Find a record similar to sys_atf_step Open an Existing Record</notes>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="Record Query">0270b8005f30220012b44adb7f46666a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 09:04:47</sys_created_on>
+        <sys_id>bcb31e9cdb2090109e1014613996194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Query</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_bcb31e9cdb2090109e1014613996194f</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 09:04:47</sys_updated_on>
+        <table>sys_atf_step</table>
+        <test display_value="Regress Test - Paul Morris - 2020-04-29 17:04:47">e8b3d29cdb2090109e10146139961932</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=bcb31e9cdb2090109e1014613996194f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bcb31e9cdb2090109e1014613996194f</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 09:04:47</sys_created_on>
+        <sys_id>38b31e9cdb2090109e10146139961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 09:04:47</sys_updated_on>
+        <value>inputs.var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3.tableISNOTEMPTY^inputs.var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3.record_idISNOTEMPTY^step_config=5f2e0e535332120028bc29cac2dc34d3</value>
+        <variable display_value="">cf167c405f30220012b44adb7f46660d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bcb31e9cdb2090109e1014613996194f</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 09:04:47</sys_created_on>
+        <sys_id>74b31e9cdb2090109e10146139961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 09:04:47</sys_updated_on>
+        <value>sys_atf_step</value>
+        <variable display_value="">6fe5f8405f30220012b44adb7f4666e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bcb31e9cdb2090109e1014613996194f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 09:04:47</sys_created_on>
+        <sys_id>b0b31e9cdb2090109e10146139961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 09:04:47</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">9459c28673103300f660eeadfff6a7dd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>bcb31e9cdb2090109e1014613996194f</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 09:04:47</sys_created_on>
+        <sys_id>fcb31e9cdb2090109e10146139961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 09:04:47</sys_updated_on>
+        <value>records_match_query</value>
+        <variable display_value="">dd091e22675003007ba405225685ef69</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open the 'Test Step' form with id '{{Step 22: Record Query.First record}}'</description>
+        <display_name>Open an Existing Record</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Existing Record Open a Catalog Item was opened in this view.</notes>
+        <order>23</order>
+        <snapshot/>
+        <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>5d5bd44adba818109e1014613996195c</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_5d5bd44adba818109e1014613996195c</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:50:23</sys_updated_on>
+        <table>sys_atf_step</table>
+        <test display_value="Catalogue Item E2E using ServiceCatalogueForm17">989e0694db2090109e1014613996197a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=5d5bd44adba818109e1014613996195c"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:17</sys_created_on>
+        <sys_id>155bd44adba818109e101461399619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:17</sys_updated_on>
+        <value>sys_atf_step</value>
+        <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>1d5bd44adba818109e1014613996195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:16</sys_updated_on>
+        <value>sys_atf_step</value>
+        <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:17</sys_created_on>
+        <sys_id>515bd44adba818109e101461399619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:17</sys_updated_on>
+        <value>default</value>
+        <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>595bd44adba818109e1014613996195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:16</sys_updated_on>
+        <value/>
+        <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>915bd44adba818109e10146139961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:16</sys_updated_on>
+        <value>sys_atf_step</value>
+        <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>955bd44adba818109e1014613996195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:16</sys_updated_on>
+        <value/>
+        <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>995bd44adba818109e10146139961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:16</sys_updated_on>
+        <value>{{step['815bd44adba818109e10146139961917'].first_record}}</value>
+        <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>5d5bd44adba818109e1014613996195c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:17</sys_created_on>
+        <sys_id>9d5bd44adba818109e101461399619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:17</sys_updated_on>
+        <value>{{step['815bd44adba818109e10146139961917'].first_record}}</value>
+        <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=5d5bd44adba818109e1014613996195c"/>
+    <sys_element_mapping action="DELETE">
+        <field>record_id</field>
+        <id>5d5bd44adba818109e1014613996195c</id>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:16</sys_created_on>
+        <sys_id>195bd44adba818109e10146139961960</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:17</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value>{{step['815bd44adba818109e10146139961917'].first_record}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="DELETE">
+        <field>view</field>
+        <id>5d5bd44adba818109e1014613996195c</id>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:48:17</sys_created_on>
+        <sys_id>1d5bd44adba818109e101461399619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:48:17</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>sys_atf_step_5d5bd44adba818109e1014613996195c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open the 'Test Step' form with id '{{Step 22: Record Query.First record}}'</description><display_name>Open an Existing Record</display_name><inputs/><inputs/><mugshots_cache_json/><notes>Existing Record Open a Catalog Item was opened in this view.</notes><order>23</order><snapshot/><step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>5d5bd44adba818109e1014613996195c</sys_id><sys_mod_count>13</sys_mod_count><sys_name>Open an Existing Record</sys_name><sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package><sys_policy/><sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope><sys_update_name>sys_atf_step_5d5bd44adba818109e1014613996195c</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:50:23</sys_updated_on><table>sys_atf_step</table><test display_value="Catalogue Item E2E using ServiceCatalogueForm17">989e0694db2090109e1014613996197a</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=5d5bd44adba818109e1014613996195c"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:17</sys_created_on><sys_id>155bd44adba818109e101461399619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:17</sys_updated_on><value>sys_atf_step</value><variable display_value="">b124164e53a0220002c6435723dc34c5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>1d5bd44adba818109e1014613996195d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:16</sys_updated_on><value>sys_atf_step</value><variable display_value="">b124164e53a0220002c6435723dc34c5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:17</sys_created_on><sys_id>515bd44adba818109e101461399619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:17</sys_updated_on><value>default</value><variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>595bd44adba818109e1014613996195d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:16</sys_updated_on><value/><variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>915bd44adba818109e10146139961986</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:16</sys_updated_on><value>sys_atf_step</value><variable display_value="">b124164e53a0220002c6435723dc34c5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>955bd44adba818109e1014613996195d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:16</sys_updated_on><value/><variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>995bd44adba818109e10146139961960</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:16</sys_updated_on><value>{{step['815bd44adba818109e10146139961917'].first_record}}</value><variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>5d5bd44adba818109e1014613996195c</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:17</sys_created_on><sys_id>9d5bd44adba818109e101461399619c1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:17</sys_updated_on><value>{{step['815bd44adba818109e10146139961917'].first_record}}</value><variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=5d5bd44adba818109e1014613996195c"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>record_id</field><id>5d5bd44adba818109e1014613996195c</id><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:16</sys_created_on><sys_id>195bd44adba818109e10146139961960</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:17</sys_updated_on><table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table><value>{{step['815bd44adba818109e10146139961917'].first_record}}</value></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>view</field><id>5d5bd44adba818109e1014613996195c</id><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-05-04 10:48:17</sys_created_on><sys_id>1d5bd44adba818109e101461399619c1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-05-04 10:48:17</sys_updated_on><table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table><value/></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>1287432529</payload_hash>
+        <record_name>Open an Existing Record</record_name>
+        <reverted_from/>
+        <source>1988898cdba810109e101461399619fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:50:23</sys_created_on>
+        <sys_id>90db508adba818109e101461399619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171df4eed3c0000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:50:23</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>58db508aaea81810452dc74c1afd71cc</update_guid>
+        <update_guid_history>58db508aaea81810452dc74c1afd71cc:1287432529,c0db508ac3a818107e72c5a605f08759:1071825875,b27bd84a7ea8181055c01e513ff1ce51:856219221,667b984ae4a81810c1d33ffa1e8529ce:640612567,5d5bd44a1da818103fcf0214679311c3:-1589742557,195bd44a4aa81810357c9f7d7107dc89:1948680145,dd5bd44adca81810e770976bcbf0235e:1823674435</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-05-04 10:50:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>01418f14c2784bda802c2440600ac584</sys_id>
+        <sys_metadata>5d5bd44adba818109e1014613996195c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_scope_delete display_value="">598065a5c0ff4facb9cce9921255b169</sys_scope_delete>
+        <sys_update_name>sys_atf_step_5d5bd44adba818109e1014613996195c</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_5d5bd44adba818109e1014613996195c">90db508adba818109e101461399619cd</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-05-04 10:50:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

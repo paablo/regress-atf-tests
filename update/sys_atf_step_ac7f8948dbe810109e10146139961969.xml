@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validate there is at least one record in 'sys_atf_step' matching query:
+Step config = Impersonate
+and Test = {{Step 9: Click a UI Action.Record}}</description>
+        <display_name>Record Query</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Navigated to child record</notes>
+        <order>10</order>
+        <snapshot/>
+        <step_config display_value="Record Query">0270b8005f30220012b44adb7f46666a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>ac7f8948dbe810109e10146139961969</sys_id>
+        <sys_mod_count>38</sys_mod_count>
+        <sys_name>Record Query</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_ac7f8948dbe810109e10146139961969</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:38:34</sys_updated_on>
+        <table>sys_atf_step</table>
+        <test display_value="New Record">4e594d8cdba810109e10146139961995</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=ac7f8948dbe810109e10146139961969"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>2c7fc188dbe810109e1014613996196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:28:07</sys_updated_on>
+        <value>sys_atf_step</value>
+        <variable display_value="">6fe5f8405f30220012b44adb7f4666e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>647f8948dbe810109e1014613996196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:28:07</sys_updated_on>
+        <value/>
+        <variable display_value="">cf167c405f30220012b44adb7f46660d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>687fc188dbe810109e1014613996196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:28:07</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">9459c28673103300f660eeadfff6a7dd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>a07f8948dbe810109e1014613996196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:28:07</sys_updated_on>
+        <value>sys_atf_step</value>
+        <variable display_value="">6fe5f8405f30220012b44adb7f4666e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>e87f8948dbe810109e1014613996196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:28:07</sys_updated_on>
+        <value>records_match_query</value>
+        <variable display_value="">dd091e22675003007ba405225685ef69</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>ec7f8948dbe810109e1014613996196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:28:07</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">9459c28673103300f660eeadfff6a7dd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ac7f8948dbe810109e10146139961969</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>ec7fc188dbe810109e1014613996196c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:39:38</sys_updated_on>
+        <value>step_config=071ee5b253331200040729cac2dc348d^test={{step['d63fcd48dbe810109e10146139961942'].record_id}}^EQ</value>
+        <variable display_value="">cf167c405f30220012b44adb7f46660d</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ac7f8948dbe810109e10146139961969"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>enforce_security</field>
+        <id>ac7f8948dbe810109e10146139961969</id>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:38:45</sys_created_on>
+        <sys_id>90e1158cdbe810109e10146139961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:38:45</sys_updated_on>
+        <table>var__m_atf_input_variable_0270b8005f30220012b44adb7f46666a</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>ac7f8948dbe810109e10146139961969</id>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:28:07</sys_created_on>
+        <sys_id>e47fc188dbe810109e1014613996196c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:39:38</sys_updated_on>
+        <table>var__m_atf_input_variable_0270b8005f30220012b44adb7f46666a</table>
+        <value>step_config=071ee5b253331200040729cac2dc348d^test={{step['d63fcd48dbe810109e10146139961942'].record_id}}^EQ</value>
+    </sys_element_mapping>
+</record_update>

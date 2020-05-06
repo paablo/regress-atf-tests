@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Confirm that the following UI actions are visible: Submit, Go To Google, Resolve, Submit, Go To Google, Resolve, Save, Create Work Order</description>
+        <display_name>UI Action Visibility</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>The UI Actions visible during recording.</notes>
+        <order>4</order>
+        <snapshot display_value="4d1b7cdd2721a2e2a79a890697b7ec71">be1a4980dbe810109e101461399619de</snapshot>
+        <step_config display_value="UI Action Visibility">d8fdf5e10b1022009cfdc71437673adc</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:02:09</sys_created_on>
+        <sys_id>d8890940dbe810109e10146139961955</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>UI Action Visibility</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_d8890940dbe810109e10146139961955</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:17:02</sys_updated_on>
+        <table>incident</table>
+        <test display_value="Regress Test - Paul Morris - 2020-04-28 17:01:27">4e594d8cdba810109e10146139961995</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=d8890940dbe810109e10146139961955"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d8890940dbe810109e10146139961955</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:02:09</sys_created_on>
+        <sys_id>1c890940dbe810109e10146139961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:02:09</sys_updated_on>
+        <value>42da42d00a0a0b340066377beb6dd099,9fede491db0233001c4af53a299619ca,38c073d7465762820116c37c3353540f,42da42d00a0a0b340066377beb6dd099,9fede491db0233001c4af53a299619ca,38c073d7465762820116c37c3353540f,47f371dfc0a8000600d86dd2da62a9e7,b0741637c36320009b5efcfc5bba8fc6</value>
+        <variable display_value="">56e6bee65320220002c6435723dc34b9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d8890940dbe810109e10146139961955</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:02:09</sys_created_on>
+        <sys_id>90890940dbe810109e10146139961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:02:09</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">ba62b4075320220002c6435723dc34b9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d8890940dbe810109e10146139961955</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:02:09</sys_created_on>
+        <sys_id>dc890940dbe810109e10146139961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:02:09</sys_updated_on>
+        <value/>
+        <variable display_value="">6619c7aa5320220002c6435723dc34e2</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>sys_atf_step_d8890940dbe810109e10146139961955</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Confirm that the following UI actions are visible: Submit, Go To Google, Resolve, Submit, Go To Google, Resolve, Save, Create Work Order</description><display_name>UI Action Visibility</display_name><inputs/><mugshots_cache_json/><notes>The UI Actions visible during recording.</notes><order>4</order><snapshot display_value="4d1b7cdd2721a2e2a79a890697b7ec71">be1a4980dbe810109e101461399619de</snapshot><step_config display_value="UI Action Visibility">d8fdf5e10b1022009cfdc71437673adc</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-28 09:02:09</sys_created_on><sys_id>d8890940dbe810109e10146139961955</sys_id><sys_mod_count>8</sys_mod_count><sys_name>UI Action Visibility</sys_name><sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package><sys_policy/><sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope><sys_update_name>sys_atf_step_d8890940dbe810109e10146139961955</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-28 09:17:02</sys_updated_on><table>incident</table><test display_value="Regress Test - Paul Morris - 2020-04-28 17:01:27">4e594d8cdba810109e10146139961995</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=d8890940dbe810109e10146139961955"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d8890940dbe810109e10146139961955</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-28 09:02:09</sys_created_on><sys_id>1c890940dbe810109e10146139961956</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-28 09:02:09</sys_updated_on><value>42da42d00a0a0b340066377beb6dd099,9fede491db0233001c4af53a299619ca,38c073d7465762820116c37c3353540f,42da42d00a0a0b340066377beb6dd099,9fede491db0233001c4af53a299619ca,38c073d7465762820116c37c3353540f,47f371dfc0a8000600d86dd2da62a9e7,b0741637c36320009b5efcfc5bba8fc6</value><variable display_value="">56e6bee65320220002c6435723dc34b9</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d8890940dbe810109e10146139961955</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-28 09:02:09</sys_created_on><sys_id>90890940dbe810109e10146139961957</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-28 09:02:09</sys_updated_on><value>incident</value><variable display_value="">ba62b4075320220002c6435723dc34b9</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d8890940dbe810109e10146139961955</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-28 09:02:09</sys_created_on><sys_id>dc890940dbe810109e10146139961956</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-28 09:02:09</sys_updated_on><value/><variable display_value="">6619c7aa5320220002c6435723dc34e2</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-51522172</payload_hash>
+        <record_name>UI Action Visibility</record_name>
+        <reverted_from/>
+        <source>1988898cdba810109e101461399619fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-28 09:17:02</sys_created_on>
+        <sys_id>5eec4584dbe810109e10146139961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c0134bef0000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-28 09:17:02</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>16ec458443e81010fb1045415dd92289</update_guid>
+        <update_guid_history>16ec458443e81010fb1045415dd92289:-51522172,e3dc05840be810107392f8c09e77ca72:-630642205,92d98180c5e8101019bdb30012ef1334:-700323242,1c8909400be8101021021fa0e2d69658:-1126199467</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:38:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>19b5da08eb124b00b22e2903995ee400</sys_id>
+        <sys_metadata>d8890940dbe810109e10146139961955</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Action Visibility</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_scope_delete display_value="">598065a5c0ff4facb9cce9921255b169</sys_scope_delete>
+        <sys_update_name>sys_atf_step_d8890940dbe810109e10146139961955</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_d8890940dbe810109e10146139961955">5eec4584dbe810109e10146139961989</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:38:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

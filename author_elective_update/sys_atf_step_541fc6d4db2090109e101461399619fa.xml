@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Confirm that the following fields are not visible: Additional comments
+Confirm that the following fields are read only: Stage</description>
+        <display_name>Field State Validation</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>The field state of the form when a UI action is clicked during the recording.</notes>
+        <order>25</order>
+        <snapshot display_value="611c6d5218af24e0977b6fa2c70cff77">84a05e58db2090109e1014613996192f</snapshot>
+        <step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>541fc6d4db2090109e101461399619fa</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_541fc6d4db2090109e101461399619fa</sys_update_name>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:57:25</sys_updated_on>
+        <table>sc_req_item</table>
+        <test display_value="Catalogue Item E2E">989e0694db2090109e1014613996197a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=541fc6d4db2090109e101461399619fa"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>410</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>181fc6d4db2090109e101461399619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value/>
+        <variable display_value="">787a9b535320220002c6435723dc3455</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>501fc6d4db2090109e101461399619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value>sc_req_item</value>
+        <variable display_value="">80f953535320220002c6435723dc340f</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>210</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>541fc6d4db2090109e101461399619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value>comments</value>
+        <variable display_value="">e81ad3535320220002c6435723dc340c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>901fc6d4db2090109e101461399619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value>stage</value>
+        <variable display_value="">592a17535320220002c6435723dc34d7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>9c1fc6d4db2090109e101461399619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value/>
+        <variable display_value="">6e5a1b535320220002c6435723dc3498</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>d81fc6d4db2090109e101461399619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value/>
+        <variable display_value="">e63a97535320220002c6435723dc34b8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>541fc6d4db2090109e101461399619fa</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:44:33</sys_created_on>
+        <sys_id>dc1fc6d4db2090109e101461399619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:44:33</sys_updated_on>
+        <value/>
+        <variable display_value="">0cd9df135320220002c6435723dc3426</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</application>
+        <file_path/>
+        <instance_id>1fc7df5adbba53007e55d5b0cf96195a</instance_id>
+        <instance_name>dev62197</instance_name>
+        <name>sys_atf_step_541fc6d4db2090109e101461399619fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Confirm that the following fields are not visible: Additional comments
+Confirm that the following fields are read only: Stage</description><display_name>Field State Validation</display_name><inputs/><mugshots_cache_json/><notes>The field state of the form when a UI action is clicked during the recording.</notes><order>25</order><snapshot display_value="611c6d5218af24e0977b6fa2c70cff77">84a05e58db2090109e1014613996192f</snapshot><step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>541fc6d4db2090109e101461399619fa</sys_id><sys_mod_count>37</sys_mod_count><sys_name>Field State Validation</sys_name><sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package><sys_policy/><sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope><sys_update_name>sys_atf_step_541fc6d4db2090109e101461399619fa</sys_update_name><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:57:25</sys_updated_on><table>sc_req_item</table><test display_value="Catalogue Item E2E">989e0694db2090109e1014613996197a</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=541fc6d4db2090109e101461399619fa"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>410</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>181fc6d4db2090109e101461399619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value/><variable display_value="">787a9b535320220002c6435723dc3455</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>501fc6d4db2090109e101461399619fc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value>sc_req_item</value><variable display_value="">80f953535320220002c6435723dc340f</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>210</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>541fc6d4db2090109e101461399619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value>comments</value><variable display_value="">e81ad3535320220002c6435723dc340c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>901fc6d4db2090109e101461399619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value>stage</value><variable display_value="">592a17535320220002c6435723dc34d7</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>9c1fc6d4db2090109e101461399619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value/><variable display_value="">6e5a1b535320220002c6435723dc3498</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>310</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>d81fc6d4db2090109e101461399619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value/><variable display_value="">e63a97535320220002c6435723dc34b8</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>541fc6d4db2090109e101461399619fa</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>paul.morris</sys_created_by><sys_created_on>2020-04-29 08:44:33</sys_created_on><sys_id>dc1fc6d4db2090109e101461399619fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>paul.morris</sys_updated_by><sys_updated_on>2020-04-29 08:44:33</sys_updated_on><value/><variable display_value="">0cd9df135320220002c6435723dc3426</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-460857457</payload_hash>
+        <record_name>Field State Validation</record_name>
+        <reverted_from/>
+        <source>1988898cdba810109e101461399619fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:57:25</sys_created_on>
+        <sys_id>fc02161cdb2090109e10146139961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c527b4450000001</sys_recorded_at>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:57:25</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>b402161c5820901055d820a87f81a646</update_guid>
+        <update_guid_history>b402161c5820901055d820a87f81a646:-460857457,d402d21cee2090101024da0e69721593:527961616,4ab15ed807209010f1a4b8423c59811e:1516780689,35b11ed8fb209010140f3cc2dce58aac:-1789367534,99b11ed84c20901056a3bd2b225f8934:-800548461,81b1dad8872090103a0c0f7b4255a36f:-521365335,a8b19ad8442090103557fb5cebda01e8:467453738,dcb19ad82c209010d59a12f173dfaa69:1456272811,a45152d83e20901061ac6840e8c744e8:-1849875412,cc5152d8482090101174a140d1a65f1f:-861056339,634112d8f120901088fa83ba9acc7826:127762734,fa41de98ec209010712af069d58b373c:1116581807,96419e98022090106de4b48e5b70e080:2105400880,89219a98ff209010d3163c2994f2fe53:-1200747343,ddd0d29832209010e535253cfdcdb7ce:2105400880,34df0a18232090103389538b6d7cb3aa:-293113860,9acfc6187e2090101c088655e8495098:1878065629,9f8f4218a9209010be0faa3389a43a46:-293113860,dc1fc6d4c7209010358b6d69777ed1fd:-1057015987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:57:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>25bdf99c0d024f3086add651865e6610</sys_id>
+        <sys_metadata>541fc6d4db2090109e101461399619fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_scope_delete display_value="">598065a5c0ff4facb9cce9921255b169</sys_scope_delete>
+        <sys_update_name>sys_atf_step_541fc6d4db2090109e101461399619fa</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_541fc6d4db2090109e101461399619fa">fc02161cdb2090109e10146139961946</sys_update_version>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:57:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

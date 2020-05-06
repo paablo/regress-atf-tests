@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open 'Regress Test Catalogue Item' catalog item</description>
+        <display_name>Open a Catalog Item</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Automatically generated using Regress</notes>
+        <order>3</order>
+        <snapshot display_value="c4d1701ac0eb8be8f6a7dc6150a182fb">af005e18db2090109e1014613996190d</snapshot>
+        <step_config display_value="Open a Catalog Item">2516c0e1c332220076173b0ac3d3ae39</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:42:43</sys_created_on>
+        <sys_id>19aec294db2090109e101461399619dd</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Open a Catalog Item</sys_name>
+        <sys_package display_value="Regress ATF Tests" source="x_43553_regress_at">c188898cdba810109e101461399619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regress ATF Tests">c188898cdba810109e101461399619fa</sys_scope>
+        <sys_update_name>sys_atf_step_19aec294db2090109e101461399619dd</sys_update_name>
+        <sys_updated_by>f2ff0e18db2090109e101461399619f0</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:48:53</sys_updated_on>
+        <table/>
+        <test display_value="Catalogue Item E2E using ServiceCatalogueForm17">989e0694db2090109e1014613996197a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=19aec294db2090109e101461399619dd"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>19aec294db2090109e101461399619dd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>paul.morris</sys_created_by>
+        <sys_created_on>2020-04-29 08:42:43</sys_created_on>
+        <sys_id>1daec294db2090109e101461399619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>paul.morris</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:42:43</sys_updated_on>
+        <value>dbec8ad0db2090109e1014613996199b</value>
+        <variable display_value="">b0d64ce1c332220076173b0ac3d3ae95</variable>
+    </sys_variable_value>
+</record_update>
